@@ -1,0 +1,26 @@
+header {
+    padding: 0px;
+    background: rgb(164, 164, 196);
+    text-shadow: 1px 1px q1px yellow;
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(226, 240, 190); 
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 20px;
+    font-size: 24px;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header h1 {
+    font-family: cursive;
+    font-weight: 100;
+    color: brown;
+}
